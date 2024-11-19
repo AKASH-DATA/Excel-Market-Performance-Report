@@ -24,7 +24,7 @@ This project is designed to help organizations and analysts understand sales per
 
 3. **Custom Analysis**:
    - Integrate the dataset into business intelligence tools like Power BI or Tableau.
-   - Use the provided report (`Customer_Sales_Report.xlsx`) to create custom visualizations or dashboards.
+   - Use the provided report (`[Customer_Sales_Report.xlsx](https://github.com/AKASH-DATA/Excel-Market-Performance-Report/blob/main/Market_Performance_Report.pdf)`) to create custom visualizations or dashboards.
 
 4. **Strategic Decision Making**:
    - Pinpoint areas of underperformance (e.g., a -9.2% overall deviation from the target in 2021) for future strategy adjustments.
